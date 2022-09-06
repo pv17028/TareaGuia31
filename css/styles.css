@@ -1,0 +1,23 @@
+.h1 {
+	color: white;
+	font-size: 50px;
+}
+
+.tittle {
+	background-color: DodgerBlue;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	text-align: center;
+}
+
+.back {
+	font-family: cursive;
+}
+
+.d1 {
+	margin: 30px;
+}
+
+.p1 {
+	font-size: 20px;
+}
