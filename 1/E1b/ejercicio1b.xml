@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="ejercicio1b.css"?>
 <!-- ejemplo1.xml  SUCARNET -->
 <fichero>
   <ficha id="1" fechaingreso="1/11/2012">

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+
+<index xmlns:xlink="http://www.w3.org/1999/xlink">
+  <menu id="1" fechaingreso="31/08/2022">
+    <e1>
+      <ejemplo1 xlink:href="https://www.w3schools.com">Ejemplo 1</ejemplo1>
+      <ejercicio1a>Ejercicio 1a</ejercicio1a>
+      <ejercicio1b></ejercicio1b>
+    </e1>
+    <e2>
+      <ejemplo2></ejemplo2>
+      <ejercicio1b></ejercicio1b>
+      <ejercicio1b></ejercicio1b>
+    </e2>
+  </menu>
+</index>

@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="ejercicio2b.css"?>
 <!-- ejemplo2.xml  SUCARNET -->
 <pais nombre="El Salvador">
   <departamentos>
