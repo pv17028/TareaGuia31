@@ -1,0 +1,36 @@
+{
+	"fichero": {
+		"ficha": [
+			{
+				"nombre": "Antonio",
+				"apellido": "Barbero",
+				"direccion": "Calle de Los Andes, 45",
+				"_id": "1",
+				"_fechaingreso": "1/11/2012"
+			},
+			{
+				"nombre": "Kevin",
+				"apellido": "Portillo",
+				"direccion": "Ciudad Delgado, San Salvador",
+				"telefono": "71405555",
+				"email": "pv17028@ues.edu.sv",
+				"website": "https://pv17028.github.io/TareaGuia21c/",
+				"_id": "2",
+				"_fechaingreso": "31/08/2022"
+			},
+			{
+				"nombre": "Enrique",
+				"apellido": "Ventura",
+				"direccion": "San Salvador, San Salvador",
+				"telefono": "75295500",
+				"email": "pv17028@ues.edu.sv",
+				"website": "https://pv17028.github.io/TareaGuia21c/",
+				"dui": "034545456",
+				"isss": "9679767866",
+				"afp": "2436335553",
+				"_id": "3",
+				"_fechaingreso": "31/08/2022"
+			}
+		]
+	}
+}
