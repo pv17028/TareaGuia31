@@ -1,11 +1,7 @@
 /* ejemplo1.css   SUCARNET  */
 pais {background-color:blue;}
 departamento {background-color:red; display:block;}
-cabecera {color:black; display:inline;}
-habitantes {color:black; display:inline;}
-altura {color:black; display:inline;}
-area {color:black; display:inline;}
-codigodep {color:black; display:inline;}
-moneda {color:white; display:inline;}
-idioma {color:white; display:inline;}
-codigopais {color:white; display:inline;}
+cabecera, habitantes, altura, area, codigodep {color:black; display:block; display: list-item;
+    list-style: upper-alpha inside; margin-left: 20px;}
+moneda, idioma, codigopais, poblacion, territorio {color:white; display:inline; display: list-item;
+    list-style: disc inside; margin-left: 20px;}

@@ -6,12 +6,12 @@
     <e1>
       <ejemplo1 xlink:href="https://www.w3schools.com">Ejemplo 1</ejemplo1>
       <ejercicio1a>Ejercicio 1a</ejercicio1a>
-      <ejercicio1b></ejercicio1b>
+      <ejercicio1b>Ejercicio 1b</ejercicio1b>
     </e1>
     <e2>
-      <ejemplo2></ejemplo2>
-      <ejercicio1b></ejercicio1b>
-      <ejercicio1b></ejercicio1b>
+      <ejemplo2>Ejemplo 2</ejemplo2>
+      <ejercicio1b>Ejercicio 2a</ejercicio1b>
+      <ejercicio1b>Ejercicio 2b</ejercicio1b>
     </e2>
   </menu>
 </index>
